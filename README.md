@@ -11,4 +11,4 @@ Scrapping data on Covid-19 cases from the official website using python
 
 The covid19 data are scrapped from [Worldometers.info](https://www.worldometers.info/coronavirus/)
 
-Clone the repository to your desired directory and execute the corona-scrapper.py file via terminal.Simply that!!
+Clone the repository to your desired directory and execute the **corona-scrapper.py** file via terminal.Simply that!!
