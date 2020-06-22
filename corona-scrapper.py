@@ -35,6 +35,8 @@ class Corona_updates:
         print("Total Deaths: ",data[1].text)
         print("Total Recoveries: ",data[2].text)
 
-corona_data = Corona_updates("https://www.worldometers.info/coronavirus/")
-corona_data.get_data()
+if __name__ == "__main__":
+    corona_data = Corona_updates("https://www.worldometers.info/coronavirus/")
+    corona_data.get_data()
+
 
